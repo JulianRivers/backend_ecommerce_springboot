@@ -17,8 +17,6 @@ public class Usuario {
     @Id
     private long id;
 
-    private boolean isAdmin;
-
     private String email;
 
     private String contrasenia;
